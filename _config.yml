@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Software Company
+author: Tech Devlopper
+email: Benitongoyi
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+•	Manage Identity and access in Azure Active Directory (Protect against security threats by using Azure Security Center, Store and manage secrets by using Azure key Vault, Host Azure virtual machines on dedicated physical servers by using Azure Dedicated Host.)
+•	Monitoring services both that provides visibility of security posture across all of services both on Azure and on-premises. A large-scale benefit from a dedicated security information and event management (SIEM).
+•	Set up Microsoft 365 for Business(using admin web portal to manage team's settingsusers andguess. Support distance articles, video, and community resource for admittatur.
+•	Register application in azure active directory, Deployed application code source in azure (Microsoft azure active directory Graph API, Generate Token in GitHub, build multi-tenant SaaS web application Using AD &OpenID.)
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
